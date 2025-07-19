@@ -218,7 +218,6 @@ MIT License - see LICENSE file for details.
 ## 🔗 Links
 
 - [Sample Data](https://drive.google.com/file/d/14ceBCLQ-BTcydDrFJauVA_PKAZ7VtDor/view?usp=sharing)
-- [Detailed Analysis](analysis.md)
 - [Aave V2 Protocol](https://aave.com)
 
 ---
