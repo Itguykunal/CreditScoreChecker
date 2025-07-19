@@ -22,7 +22,7 @@ pip install -r requirements.txt
 python score_wallets.py user-transactions.json
 
 # 3. Generate analysis (optional)
-python generate_analysis.py
+python generate_analysis.py (for visual represenation and analysis.md)
 ```
 
 **That's it!** Your wallet scores are ready in `wallet_scores.json`.
